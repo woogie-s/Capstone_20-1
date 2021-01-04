@@ -37,20 +37,28 @@
 
 <table style="text-align:center;">
     <tr>
-        <th>리뷰 상세보기</th>
-        <th>감정 분석</th>
-        <th>차트 시각화</th>
+        <th>상세 화면</th>
+        <!-- <th>감정 분석</th>
+        <th>차트 시각화</th> -->
     </tr>
     <tr>
         <td>
-        <img src="./reference_image/table.png" width=500 height=300>
+        <img src="./reference_image/table.png">
+        <br>▲ 리뷰 상세보기
         </td>
+    </tr>
+    <tr>
         <td>
-        <img src="./reference_image/emotion.png" width=500 height=300>
+        <img src="./reference_image/emotion.png">
+        <br>▲ 감정 분석
         </td>
-        <td> 
-        <img src="./reference_image/chart.png" width=500 height=300>
+    </tr>
+    <tr>
+        <td>
+        <img src="./reference_image/chart.png">
+        <br>▲ 차트 시각화
         </td>
+    </tr>
 
 </table>
 
