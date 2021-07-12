@@ -3,7 +3,7 @@
 ## 단어 유사도 측정을 통한 게임 어플리케이션 분석 " TMI Review "
 
 - 2020년도 1학기 제 9회 세종대 창의경진설계대회 `장려상` 수상
-- 최종 발표 영상 <a href="https://youtu.be/VK112fAfW9A">Youtube 링크</a>
+- 최종 발표 영상 <a href="https://youtu.be/2IXQqClDp-g">Youtube 링크</a>
 
 <br>
 
